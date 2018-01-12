@@ -19,11 +19,11 @@ DELETE (HttpDelete) – Huỷ bỏ hoặc xoá một tài nguyên
 
 ### 3 Hiển thị cấu trúc thư mục như URls
 - Cấu trúc địa chỉ của RESTful service:
-+ Giấu các đuôi tài liệu mở rộng của bản gốc trong máy chủ (.jsp, .php, .asp).
-+ Để mọi thứ là chữ thường (thực ra là không phân biệt, nhưng cũng nên tuân thủ để khỏi phải nhớ HOA-thường lung tung).
-+ Thay thế các khoảng trống bằng gạch chân hoặc gạch nối (một trong hai loại).
-+ Tránh các chuỗi yêu cầu.
-+ Thay vì sử dụng mã (404 Not Found) khi yêu cầu địa chỉ cho một phần đường dẫn thì luôn luôn cung cấp một trang mặc định hoặc tài nguyên như một phản hồi.
+Giấu các đuôi tài liệu mở rộng của bản gốc trong máy chủ (.jsp, .php, .asp).
+Để mọi thứ là chữ thường (thực ra là không phân biệt, nhưng cũng nên tuân thủ để khỏi phải nhớ HOA-thường lung tung).
+Thay thế các khoảng trống bằng gạch chân hoặc gạch nối (một trong hai loại).
+Tránh các chuỗi yêu cầu.
+Thay vì sử dụng mã (404 Not Found) khi yêu cầu địa chỉ cho một phần đường dẫn thì luôn luôn cung cấp một trang mặc định hoặc tài nguyên như một phản hồi.
 	
 ### 4 Chuyển đổi linh hoạt JavaScript Object Notation (JSON) và XML hoặc cả hai
 - Là một bản tóm tắt các thuộc tính của những thứ trong mô hình dữ liệu hệ thống.
