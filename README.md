@@ -1,6 +1,6 @@
 # BaoCaoRestfulWebService_Thu_Chinh_Dinh
 
-<h1> Mô hình server và client của Restful web service </h1>
+<h2> Mô hình server và client của Restful web service </h2>
 
 ###  RESTful Service
 - Là một dịch vụ web đơn giản sử dụng HTTP và tính chất của REST.
