@@ -212,12 +212,14 @@ Và vì được porting từ C nên về mặt tốc độ xử lý thì rất 
 
 <h2> 4 Phía Client ( Client-Side) </h2>
 Client-side là tên gọi chung của các ngôn ngữ chạy trên Client.<br>
+
 **Sử dụng:**<br>
 - Tạo ra những trang tương tác.<br>
 - Làm cho web trở nên sinh động hơn với các thành phần động.<br>
 - Tương tác với bộ lưu trữ tạm thời, và bộ lưu trữ cục bộ (Cookie, localStorage).<br>
 - Gửi yêu cầu cho Server và nhận phản hồi từ nó.<br>
 - Cung cấp dịch vụ remote cho các ứng dụng client-side, như là đăng ký bản quyền, gửi nội dung, hay là các game multiplayer.<br>
+
 **Nền tảng:**<br>
 - Javascript (phổ biến nhất).<br>
 - HTML *.<br>
