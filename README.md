@@ -41,7 +41,7 @@ So sánh với SOAP:<br>
 - Gần gũi hơn với các công nghệ Web khác trong triết lý design.<br>
 
 <h2> 3. Các công nghệ, nền tảng cho server side. </h2>
-Ngôn ngữ lập trình server là những ngôn ngữ chạy phía server ( server-side). Đây là những ngôn ngữ được các lập trình viên sử dụng để viết các chương trình, tiện ích chạy trên các server. Trong lĩnh vực này, các lập trình viên có rất nhiều lựa chọn để chọn cho mình một công nghệ phù hợp như sử dụng ASP, Java, Perl, PHP, Python, Ruby, Node.js, Swift... Chúng ta sẽ tìm hiểu sơ qua về các ngôn ngữ lập trình và công nghệ phía server này nhé.###  3.1 ASP.Net
+Ngôn ngữ lập trình server là những ngôn ngữ chạy phía server ( server-side). Đây là những ngôn ngữ được các lập trình viên sử dụng để viết các chương trình, tiện ích chạy trên các server. Trong lĩnh vực này, các lập trình viên có rất nhiều lựa chọn để chọn cho mình một công nghệ phù hợp như sử dụng ASP, Java, Perl, PHP, Python, Ruby, Node.js, Swift... Chúng ta sẽ tìm hiểu sơ qua về các ngôn ngữ lập trình và công nghệ phía server này nhé.
 
 ### 3.1 ASP.Net
 Microsoft Active Server Pages (ASP) là một môi trường sever-side scripting cho phép ta tạo ra và chạy các ứng dụng Web động, tương tác với client một cách hiệu quả. Nó cho phép chúng ta sử dụng tất cả các tính năng của một ngôn ngữ lập trìnnh như C# hay VB.NET, html, javascript, css để tạo trang Web dễ dàng.
