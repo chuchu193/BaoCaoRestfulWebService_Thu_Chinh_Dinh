@@ -42,11 +42,14 @@ So sánh với SOAP:<br>
 
 <h2> 3. Các công nghệ, nền tảng cho server side. </h2>
 Ngôn ngữ lập trình server là những ngôn ngữ chạy phía server ( server-side). Đây là những ngôn ngữ được các lập trình viên sử dụng để viết các chương trình, tiện ích chạy trên các server. Trong lĩnh vực này, các lập trình viên có rất nhiều lựa chọn để chọn cho mình một công nghệ phù hợp như sử dụng ASP, Java, Perl, PHP, Python, Ruby, Node.js, Swift... Chúng ta sẽ tìm hiểu sơ qua về các ngôn ngữ lập trình và công nghệ phía server này nhé.###  3.1 ASP.Net
+
 ### 3.1 ASP.Net
 Microsoft Active Server Pages (ASP) là một môi trường sever-side scripting cho phép ta tạo ra và chạy các ứng dụng Web động, tương tác với client một cách hiệu quả. Nó cho phép chúng ta sử dụng tất cả các tính năng của một ngôn ngữ lập trìnnh như C# hay VB.NET, html, javascript, css để tạo trang Web dễ dàng.
 ![asp](https://user-images.githubusercontent.com/35051952/34913333-64a943ae-f92c-11e7-8153-c60e8653142f.PNG)
+
 ### 3.2 Java
 Java là một trong những ngôn ngữ lập trình hướng đối tượng phổ biến. Nó giúp cho các lập trình viên phát triển các ứng dụng mà có thể chạy trên nhiều thiết bị phần cứng và hệ điều hành khác nhau. Java là một ngôn ngữ lập trình có tính bảo mật cao, hướng đối tượng, bậc cao và mạnh mẽ.
+
 ### 3.3 Perl
 Perl là ngôn ngữ lập trình có khả năng chắt lọc một lượng lớn dữ liệu và cho phép xử lí dữ liệu nhằm thu được kết quả cần tìm. Nó thì có tốc độ xử lý văn bản nhanh đến mức kinh ngạc, nhưng không được sử dụng nhiều trong thế giới Internet hiện đại. 
 Tuy nhiên hầu như tất cả các hacker đều có một số thủ thuật được viết bởi Perl, vì thế nó cũng đáng giá để bạn để tâm nghiên cứu vào một lúc nào đó.
