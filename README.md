@@ -19,9 +19,12 @@
       <li> Hỗ trợ quản lý trạng thái của các control</li>
       <li> Tự động phát sinh mã HTML cho các Server control tương ứng với từng loại Browser</li>
       <li> Hỗ trợ nhiều cơ chế Cache…</li>
-      <li> Trang ASP.Net được biên dịch trước. Thay vì phải đọc và thông dịch mỗi khi trang web được yêu cầu, ASP.Net biên dịch những trang web động thành những tập tin DLL mà Server có thể thi hành nhanh chóng và hiệu quả. Làm gia tăng tốc độ thực thi so với kỹ thuật thông dịch của ASP…
-                            Mô phỏng quá trình biên dịch trong ASP.NET</li>
+      <li> Trang ASP.Net được biên dịch trước. Thay vì phải đọc và thông dịch mỗi khi trang web được yêu cầu, ASP.Net biên dịch những trang web động thành những tập tin DLL mà Server có thể thi hành nhanh chóng và hiệu quả. Làm gia tăng tốc độ thực thi so với kỹ thuật thông dịch của ASP…</li>
+                        
 </ul>
+    
+Mô phỏng quá trình biên dịch trong ASP.NET  <br>
+
      ![asp](https://user-images.githubusercontent.com/35051952/34913333-64a943ae-f92c-11e7-8153-c60e8653142f.PNG)
 
    ###  3.2 Java
@@ -54,12 +57,14 @@
     <li> Perl khá linh hoạt và cho phép người sử dụng giải quyết với cùng một vấn đề được đặt ra theo nhiều cách khác nhau.</li>
   </ul> 
    ###  3.4 PHP
-   PHP là ngôn ngữ kịch bản máy chủ (server-side) được sử dụng trên Internet ngày nay — nó chạy trên 75% của tất cả các máy chủ Web — và là sức mạnh phía sau của các nền tảng như WordPress, Wikipedia, và thậm chí là một phần của Facebook.
-   PHP là ngôn ngữ lập trình sử dụng mã nguồn mở. Điều này có nghĩa là bạn có thể sử dụng PHP hoàn toàn miễn phí cho việc thực hiện website của mình.
-   Hiện nay, PHP đang là một trong những ngôn ngữ phổ biến hàng đầu được dùng trong lập trình web.
+
+   PHP là ngôn ngữ kịch bản máy chủ (server-side) được sử dụng trên Internet ngày nay — nó chạy trên 75% của tất cả các máy chủ Web — và là sức mạnh phía sau của các nền tảng như WordPress, Wikipedia, và thậm chí là một phần của Facebook.<br>
+   PHP là ngôn ngữ lập trình sử dụng mã nguồn mở. Điều này có nghĩa là bạn có thể sử dụng PHP hoàn toàn miễn phí cho việc thực hiện website của mình.<br>
+   Hiện nay, PHP đang là một trong những ngôn ngữ phổ biến hàng đầu được dùng trong lập trình web.<br>
      
         ![php](https://user-images.githubusercontent.com/35051952/34915296-55e70944-f956-11e7-91f0-8bb46afb2bf8.PNG
 
+<br> 
     PHP là một ngôn ngữ lập trình web rất được ưa chuộng, hiện là ngôn ngữ lập trình web phổ biến nhất. Nhờ vào một số đặc điểm sau:
   <ul>
        <li> PHP hoạt động với tốc độ rất nhanh và hiệu quả. Một server bình thường có thể đáp ứng được hàng triệu truy cập / ngày.</li>
@@ -73,6 +78,7 @@
        <li> Các hosting hỗ trợ nhiều</li>
  </ul>
    ###  3.5 Python
+
    Python là một ngôn ngữ lập trình thông dịch do Guido van Rossum tạo ra năm 1990. Python hoàn toàn tạo kiểu động và dùng cơ chế cấp phát bộ nhớ tự động; do vậy nó tương tự như Perl, Ruby, Scheme, Smalltalk, và Tcl. Python được phát triển trong một dự án mã mở, do tổ chức phi lợi nhuận Python Software Foundation quản lý.
       Đặc điểm chính của python:
   <ul>
@@ -90,8 +96,9 @@
 
    
    ###  3.6 Ruby
-   Ruby là ngôn ngữ lập trình kịch bản bởi mã lệnh của Ruby có thể chạy trực tiếp bởi máy tính mà không cần phải biên soạn thành một tệp thực thi tệp tin .exe trên Windows hay tệp tin binary trên Linux. Ruby, và framework phát triển ứng dụng web của nó là Ruby On Rails, là nguồn sức mạnh cho một số trang web lớn như là Groupon, Shopify (một nền tảng thương mại điện tử), và được dùng để xây dựng front-end cho mạng xã hội Twitter.
-  Nó là một ngôn ngữ hoàn toàn hướng đối tượng và được thông dịch bởi server trước khi gửi mã HTML tới trình duyệt của người dùng — cũng giống như PHP (nhưng cũng có nhiều điểm hoàn toàn khác biệt). Tuy nhiên, nó có một số đặc điểm nổi trội đó là phát triển ứng dụng nhanh chóng, viết ít code bị lặp lại, và tốc độ thực thi khá nhanh.
+
+   Ruby là ngôn ngữ lập trình kịch bản bởi mã lệnh của Ruby có thể chạy trực tiếp bởi máy tính mà không cần phải biên soạn thành một tệp thực thi tệp tin .exe trên Windows hay tệp tin binary trên Linux. Ruby, và framework phát triển ứng dụng web của nó là Ruby On Rails, là nguồn sức mạnh cho một số trang web lớn như là Groupon, Shopify...<br>
+  Nó là một ngôn ngữ hoàn toàn hướng đối tượng và được thông dịch bởi server trước khi gửi mã HTML tới trình duyệt của người dùng . Tuy nhiên, nó có một số đặc điểm nổi trội đó là phát triển ứng dụng nhanh chóng, viết ít code bị lặp lại, và tốc độ thực thi khá nhanh.<br>
     + Ưu điểm của Ruby
 <ul>
       <li> Mã nguồn mở</li>
@@ -114,7 +121,7 @@
 
   ###  3.7 Node.js
    Node.js là 1 nền tảng chạy trên môi trường V8 Javascript runtime. Node.js cho phép lập trình viên xây dựng các ứng dụng có tính mở rộng cao sử dụng Javascript trên server.
-  Và vì được porting từ C nên về mặt tốc độ xử lý thì rất nhanh.Node.js cho phép các nhà phát triển ứng dụng chỉ cần sử dụng Javascript để lập trình cho cả client side và server side, đưa Javascript từ một ngôn ngữ thuần client side có thể thực hiện các công việc phía sever mà trước đây phải do PHP, Ruby in Rails, Perl,... thực hiện.
+  Node.js cho phép các nhà phát triển ứng dụng chỉ cần sử dụng Javascript để lập trình cho cả client side và server side, đưa Javascript từ một ngôn ngữ thuần client side có thể thực hiện các công việc phía sever mà trước đây phải do PHP, Ruby in Rails, Perl,... thực hiện.<br>
     + Dưới đây là những lý do mà bạn không nên bỏ qua nền tảng này.
        <ul>
        <li> Đặc điểm nổi bật của Node.js là nó nhận và xử lý nhiều kết nối chỉ với một single-thread. Điều này giúp hệ thống tốn ít RAM nhất và chạy nhanh nhất khi không phải tạo thread mới cho mỗi truy vấn giống PHP. Ngoài ra, tận dụng ưu điểm non-blocking I/O của Javascript mà Node.js tận dụng tối đa tài nguyên của server mà không tạo ra độ trễ như PHP</li>
@@ -123,13 +130,16 @@
        <li> NodeJS sẽ tận dụng tối đa Unix để hoạt động. Tức là NodeJS có thể xử lý hàng nghìn Process và trả ra 1 luồng khiến cho hiệu xuất hoạt động đạt mức tối đa nhất và tuyệt vời nhất.</li>
        <li> Các web thông thường gửi HTTP request và nhận phản hồi lại (Luồng dữ liệu). Giả xử sẽ cần xử lý 1 luồng giữ liệu cực lớn, NodeJS sẽ xây dựng các Proxy phân vùng các luồng dữ liệu để đảm bảo tối đa hoạt động cho các luồng dữ liệu khác.Điều này giúp hệ thống tốn ít RAM nhất và chạy nhanh nhất khi không phải tạo thread mới cho mỗi truy vấn giống PHP. Cùng xem mô hình dưới đây để hiểu tại sao Node.js được đánh giá cao hơn.</li>
       </ul>
-                                      So sánh cách nhận và xử lý các request giữa server truyền thống và Node.js
+                                     
+<br>    So sánh cách nhận và xử lý các request giữa server truyền thống và Node.js
+<br>
 
                            ![node](https://user-images.githubusercontent.com/35051952/34915306-9e28a9e2-f956-11e7-851d-4c258dfe9cba.png)                             
 
-     + Với sự ra đời của các ứng dụng di động & HTML 5 nên Node.js rất hiệu quả khi xây dựng những ứng dụng thời gian thực (real-time applications) như ứng dụng chat, các dịch vụ mạng xã hội như Facebook, Twitter,…
+     <br>
+ Với sự ra đời của các ứng dụng di động & HTML 5 nên Node.js rất hiệu quả khi xây dựng những ứng dụng thời gian thực (real-time applications) như ứng dụng chat, các dịch vụ mạng xã hội như Facebook, Twitter,…
 
-
+<br>
 <h2> 1 Mô hình server và client của Restful web service </h2>
 
 ###  RESTful Service
