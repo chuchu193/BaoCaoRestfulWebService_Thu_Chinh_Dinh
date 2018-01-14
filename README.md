@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BaoCaoRestfulWebService_Thu_Chinh_Dinh
 
 <h2> 1 Mô hình server và client của Restful web service </h2>
@@ -61,4 +61,3 @@ Bất kỳ ngôn ngữ nào chạy trên thiết bị client mà có tương tá
 JavaScript là một ngôn ngữ lập trình đa nền tảng (cross-platform), ngôn ngữ lập trình kịch bản, hướng đối tượng. JavaScript là một ngôn ngữ nhỏ và nhẹ (small and lightweight). Khi nằm bên trong một môi trường (host environment), JavaScript có thể kết nối tới các object của môi trường đó và cung cấp các cách quản lý chúng (object).<br>
 JavaScript chứa các thư viện tiêu chuẩn cho các object, ví dụ như:  Array, Date, và Math, và các yếu tố cốt lõi của ngôn ngữ lập trình như: toán tử (operators), cấu trúc điều khiển (control structures), và câu lệnh. JavaScript có thể được mở rộng cho nhiều mục đích bằng việc bổ sung thêm các object; ví dụ:<br>
 -Client-side JavaScript - JavaScript phía máy khách, JavaScript được mở rộng bằng cách cung cấp các object để quản lý trình duyệt và Document Object Model (DOM)  của nó. Ví dụ, phần mở rộng phía máy khách cho phép một ứng dụng tác động tới các yếu tố trên một trang HTML và phản hồi giống các tác động của người dùng như click chuột, nhập form, và chuyển trang.
->>>>>>> anhthu
